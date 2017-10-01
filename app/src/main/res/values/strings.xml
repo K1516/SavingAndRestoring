@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SavingAndRestoring</string>
+    <string name="hello_txt">Hello World!</string>
+</resources>
